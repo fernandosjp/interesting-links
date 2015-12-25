@@ -16,3 +16,6 @@ Objective is to collect interesting links an organized by categories.
 
 ### Git
 * **Cheat Sheet:** https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
+### Linux
+* **Versioning Config File:** https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps
