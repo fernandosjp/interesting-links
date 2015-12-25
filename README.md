@@ -13,3 +13,6 @@ docker run -p 8888:8888 -v /home/fernandosjp/Desktop/Fernando/:/notebooks bienv
 * **Common Python Tools: Using virtualenv, Installing with Pip, and Managing Packages:** https://www.digitalocean.com/community/tutorials/common-python-tools-using-virtualenv-installing-with-pip-and-managing-packages
 * **Configuration Files:** http://martin-thoma.com/configuration-files-in-python/
 * **Distributing Packages:** https://packaging.python.org/en/latest/distributing/
+
+### Git
+* **Cheat Sheet:** https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
