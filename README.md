@@ -1,6 +1,6 @@
-docker run -p 8888:8888 -v /home/fernandosjp/Desktop/Fernando/:/notebooks bienv
-
 # My Interesting Links
+
+Objective is to collect interesting links an organized by categories.
 
 ## Tools
 ### Documentation Generator
