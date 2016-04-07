@@ -25,3 +25,16 @@ Objective is to collect interesting links an organized by categories.
 
 ### Linux
 * **Versioning Config File:** https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps
+
+### Data Science
+* **Doing Data Science**: http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/
+
+### Development model/process
+
+* **A successful Git branching model:** http://nvie.com/posts/a-successful-git-branching-model/
+* **Agyle Analytics (Ken Collier):** https://www.thoughtworks.com/insights/blog/introducing-agile-analytics
+
+### Data Modelling
+
+* **Event data modelling:** http://snowplowanalytics.com/blog/2016/03/16/introduction-to-event-data-modeling/
+
