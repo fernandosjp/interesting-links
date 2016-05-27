@@ -19,6 +19,10 @@ Objective is to collect interesting links an organized by categories.
 	* http://docs.python-guide.org/en/latest/scenarios/cli/
 	* https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 
+### Ruby
+
+* **Deploy Rails to Digital Ocean:** https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
+
 ### Git
 * **Cheat Sheet:** https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 * **Remove sensitive data from Git history:** http://www.davidverhasselt.com/git-how-to-remove-your-password-from-a-repository/
