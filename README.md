@@ -39,3 +39,6 @@ Objective is to collect interesting links an organized by categories.
 
 * **Event data modelling:** http://snowplowanalytics.com/blog/2016/03/16/introduction-to-event-data-modeling/
 
+### DevOps
+
+* **Initial server configuration:** https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
