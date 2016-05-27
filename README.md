@@ -22,6 +22,7 @@ Objective is to collect interesting links an organized by categories.
 ### Git
 * **Cheat Sheet:** https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 * **Remove sensitive data from Git history:** http://www.davidverhasselt.com/git-how-to-remove-your-password-from-a-repository/
+* **Deploying Flask apps on Digital Ocean:** http://blog.marksteve.com/deploy-a-flask-application-inside-a-digitalocean-droplet
 
 ### Linux
 * **Versioning Config File:** https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps
