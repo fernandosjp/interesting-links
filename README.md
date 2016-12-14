@@ -18,6 +18,7 @@ Objective is to collect interesting links an organized by categories.
 	* https://docs.python.org/2/howto/argparse.html
 	* http://docs.python-guide.org/en/latest/scenarios/cli/
 	* https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
+	* http://nvie.com/posts/writing-a-cli-in-python-in-under-60-seconds/
 * **Jupyter Notebook:** http://echorand.me/presentation-slides-with-jupyter-notebook.html#.WFCdcMwrJCU
 
 ### Ruby
