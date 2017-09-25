@@ -8,6 +8,9 @@ Objective is to collect interesting links an organized by categories.
 
 ## Articles
 
+### Guides:
+* **Generic guide for programming doubts:** https://guide.freecodecamp.org/clojure/
+
 ### Python
 * **Structuring yout Project:** http://docs.python-guide.org/en/latest/writing/structure/
 * **Common Python Tools: Using virtualenv, Installing with Pip, and Managing Packages:** https://www.digitalocean.com/community/tutorials/common-python-tools-using-virtualenv-installing-with-pip-and-managing-packages
