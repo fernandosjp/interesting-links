@@ -23,6 +23,9 @@ Objective is to collect interesting links an organized by categories.
 	* https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 	* http://nvie.com/posts/writing-a-cli-in-python-in-under-60-seconds/
 * **Jupyter Notebook:** http://echorand.me/presentation-slides-with-jupyter-notebook.html#.WFCdcMwrJCU
+* **Django:**
+	* https://blog.doordash.com/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5
+	* https://110j.wordpress.com/2009/06/17/organize-django-applications/
 
 #### Ruby
 * **Deploy Rails to Digital Ocean:** https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
