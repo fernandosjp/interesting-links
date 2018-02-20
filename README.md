@@ -26,6 +26,8 @@ Objective is to collect interesting links an organized by categories.
 * **Django:**
 	* https://blog.doordash.com/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5
 	* https://110j.wordpress.com/2009/06/17/organize-django-applications/
+	* http://blog.richard.do/index.php/2014/07/seperation-of-logic-in-django-projects/
+	* https://sunscrapers.com/blog/where-to-put-business-logic-django/
 
 #### Ruby
 * **Deploy Rails to Digital Ocean:** https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
