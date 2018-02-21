@@ -43,6 +43,10 @@ Objective is to collect interesting links an organized by categories.
 * **Doing Data Science**: http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/
 * **Event data modelling:** http://snowplowanalytics.com/blog/2016/03/16/introduction-to-event-data-modeling/
 
+### SysAdmin
+* **Nginx:**
+	* https://calvin.me/forward-ip-addresses-when-using-nginx-proxy/
+	* https://ypereirareis.github.io/blog/2017/02/15/nginx-real-ip-behind-nginx-reverse-proxy/
 ### DevOps
 
 * **Initial server configuration:** https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
