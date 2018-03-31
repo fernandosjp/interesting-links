@@ -48,6 +48,7 @@ Objective is to collect interesting links an organized by categories.
 * **Nginx:**
 	* https://calvin.me/forward-ip-addresses-when-using-nginx-proxy/
 	* https://ypereirareis.github.io/blog/2017/02/15/nginx-real-ip-behind-nginx-reverse-proxy/
+	* https://www.keycdn.com/support/nginx-reverse-proxy/
 ### DevOps
 
 * **Initial server configuration:** https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
