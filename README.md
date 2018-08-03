@@ -43,6 +43,8 @@ Objective is to collect interesting links an organized by categories.
 ### Data
 * **Doing Data Science**: http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/
 * **Event data modelling:** http://snowplowanalytics.com/blog/2016/03/16/introduction-to-event-data-modeling/
+* **Doing Data Science at Twitter:** https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
+* **Towards Data Science:** https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae
 
 ### SysAdmin
 * **Nginx:**
